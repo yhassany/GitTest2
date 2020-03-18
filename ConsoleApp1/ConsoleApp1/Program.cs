@@ -16,6 +16,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("whatever");
 
+            Console.WriteLine("branch2 update1");
+
             Console.ReadLine();
         }
     }
