@@ -18,6 +18,8 @@ namespace ConsoleApp1
             
             Console.WriteLine("conflict2");
 
+            Console.WriteLine("branch2 update1");
+
             Console.ReadLine();
         }
     }
