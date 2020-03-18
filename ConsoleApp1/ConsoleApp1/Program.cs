@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("conflict1");
 
             Console.WriteLine("whatever");
+            
+            Console.WriteLine("conflict2");
 
             Console.ReadLine();
         }
